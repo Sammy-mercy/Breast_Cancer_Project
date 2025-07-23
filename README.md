@@ -76,10 +76,10 @@ The aim is to:
 ## 📦 Installation & Usage
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/Sammy-mercy/Breast_Cancer_Project.git
+git clone https://github.com/Sammy-mercy.git
 
 # 2️⃣ Navigate into the project directory
-cd loan_project
+cd Breast_Cancer_Project
 
 # 3️⃣ Install dependencies
 pip install -r requirements.txt
